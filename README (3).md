@@ -39,14 +39,23 @@ Possible extensions (from least points to most points):
 
 ## Project 5 Rubric
 
-- [] File spacy_on_corpus.py is complete with new functionality and is commented. (4 points)
-- [] File server.py is complete with new functionality and is commented. (4 points)
-- [] Notebook is code-complete and committed in a run state. (4 points)
-- [] All requested screenshots are provided in notebook. (1 point)
-- [] All ten questions are answered. (5 points)
-- [] Model card is completed. (5 points)
-- [] Student made meaningful commit messages. (1 pt)
-- [] Readme has student's name, class year and resources student used. (1 pt)
-- [] Extension (1-2 points for a start; 3-4 points for a complete extension; 5 points for a surprising and creative extension)
+- [4] File spacy_on_corpus.py is complete with new functionality and is commented. (4 points)
+- [3] File server.py is complete with new functionality and is commented. (4 points)
+- [4] Notebook is code-complete and committed in a run state. (4 points)
+- [1] All requested screenshots are provided in notebook. (1 point)
+- [4.5] All ten questions are answered. (5 points)
+- [3] Model card is completed. (5 points)
+- [1] Student made meaningful commit messages. (1 pt)
+- [1] Readme has student's name, class year and resources student used. (1 pt)
+- [2] Extension (1-2 points for a start; 3-4 points for a complete extension; 5 points for a surprising and creative extension)
 
 ### Comments from grader
+
+server.py only has the code for project 5, not the whole server code.
+
+Answers to questions 1 and 2 are partly correct.
+
+Model card is for base model, not the sentiment model; also missing title.
+
+Yay, I knew uncased would work better. Why? It is a better match to the uncased SST data.
+
